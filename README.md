@@ -1,7 +1,5 @@
 # movie_branch
 
-# my-favorite-movie
-
 <h1> Now you see me </h1>
 
   <body> My favorite movie is now you see me, it is an unpredictable movie because it is about heists compared with 'magic'.</body>
